@@ -1,10 +1,27 @@
-# Getting Started with Create React App
+# Agriculture Analytics
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project performs data analytics on the Indian Agriculture dataset and displays the results in tables using React and Mantine.
 
-## Available Scripts
+## Overview
 
-In the project directory, you can run:
+The application performs the following tasks:
+1. Aggregates crop data to display the crop with maximum and minimum production for each year.
+2. Calculates and displays the average yield and average cultivation area for each crop from 1950 to 2020.
+
+## Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **TypeScript**: A strongly typed programming language that builds on JavaScript.
+- **Mantine**: A React component library used for creating tables and other UI components.
+- **Yarn**: A package manager for JavaScript.
+
+## How to Run
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/kk7188048/Data-analysis-task.git
+   cd agriculture-analytics
+
 
 ### `yarn start`
 
